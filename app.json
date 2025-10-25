@@ -21,10 +21,19 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "rafaelvalverde.app"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b31b240f-50e9-4bcd-948e-d793dbc505ad"
+      }
+    },
+    "plugins": [
+      "expo-asset"
+    ]
   }
 }
