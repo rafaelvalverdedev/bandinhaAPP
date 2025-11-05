@@ -93,23 +93,18 @@ export const Column: React.FC<Props> = ({ title, items }) => {
 
 const styles = StyleSheet.create({
     column: {
+        flex: 1,
         flexShrink: 1,
-
-        minWidth: 300,
-        maxWidth: 420,
-        borderRightWidth: 1,
-        borderRightColor: "#fff",
-
+        minWidth: 420,
     },
 
     header: { // SEXTA - SBADO - DOMINGO
         backgroundColor: "#1c4587",
         color: "#fff",
         padding: 10,
-        fontWeight: 700,
         fontSize: 16,
         textAlign: "center",
-        minWidth: "100%",
+        fontFamily: 'NotoSans_400Regular',
     },
 
     section: { // PATIO - PLENARIO 
@@ -124,6 +119,7 @@ const styles = StyleSheet.create({
     sectionText: {
         fontWeight: 700,
         color: "#003366",
+
     },
 
     col1: {

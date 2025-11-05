@@ -11,10 +11,10 @@ export const COLUMNS = [
         "duration": "TOM",
         "pagHead": "PAG"
       },
-      {
+      { 
         "id": "sx-01",
         "time": "",
-        "title": "BOA NOITE AMIGO",
+        "title": "Boa noite amigo boa noite irmão!!!",
         "lyrics": "Dê um sorriso e cante essa canção",
         "tone": "D",
         "page": 48,
@@ -23,16 +23,16 @@ export const COLUMNS = [
       {
         "id": "sx-02",
         "time": "",
-        "title": "CELEBRAI COM JUBILO",
-        "lyrics": "Celebrai com júbilo ao Senhor",
+        "title": "Celebrai com jubilo",
+        "lyrics": "Celebrai com jubilo ao Senhor",
         "tone": "D",
-        "page": 56,
+        "page": 64,
         "url": "audio/celebrai-com-jubilo.mp3"
       },
       {
         "id": "sx-03",
         "time": "",
-        "title": "REUNIDOS AQUI",
+        "title": "Reunidos Aqui",
         "lyrics": "Reunidos Aqui Só pra louvar ao Senhor",
         "tone": "D",
         "page": 48,
@@ -41,7 +41,7 @@ export const COLUMNS = [
       {
         "id": "sx-04",
         "time": "",
-        "title": "A ALEGRIA ESTÁ NO CORAÇÃO",
+        "title": "A alegria está no coração",
         "lyrics": "A alegria está no coração de quem já conhece a Jesus",
         "tone": "D",
         "page": 5,
@@ -50,16 +50,16 @@ export const COLUMNS = [
       {
         "id": "sx-05",
         "time": "",
-        "title": "CANTEMOS ALELUIA",
+        "title": "Cantemos Aleluia",
         "lyrics": "Cantemos Aleluia",
         "tone": "D",
-        "page": "",
+        "page": 1,
         "url": "audio/cantemos-aleluia.mp3"
       },
       {
         "id": "sx-06",
         "time": "",
-        "title": "SE O MEU POVO",
+        "title": "Se o meu povo",
         "lyrics": "Se o meu povo que se chama pelo meu nome",
         "tone": "D",
         "page": 53,
@@ -68,7 +68,7 @@ export const COLUMNS = [
       {
         "id": "sx-07",
         "time": "",
-        "title": "EIS QUE VENHO SEM DEMORA",
+        "title": "Eis que venho sem demora",
         "lyrics": "Eis que venho sem demora",
         "tone": "D",
         "page": 10,
@@ -82,7 +82,7 @@ export const COLUMNS = [
       {
         "id": "sx-08",
         "time": "",
-        "title": "SÓ O PODER DE DEUS",
+        "title": "Só o poder de Deus",
         "lyrics": "Só o poder de Deus pode mudar meu ser",
         "tone": "D",
         "page": 11,
@@ -91,7 +91,7 @@ export const COLUMNS = [
       {
         "id": "sx-09",
         "time": "",
-        "title": "BATALHA",
+        "title": "Batalha",
         "lyrics": "Batalhar não é batalha se não surgir as provas",
         "tone": "D",
         "page": 56,
@@ -100,7 +100,7 @@ export const COLUMNS = [
       {
         "id": "sx-10",
         "time": "",
-        "title": "JACÓ SEGUROU O ANJO",
+        "title": "Jacó Segurou o Anjo",
         "lyrics": "Jacó Segurou o Anjo, segurou  o anjo",
         "tone": "D",
         "page": 54,
@@ -117,8 +117,8 @@ export const COLUMNS = [
       {
         "id": "sx-11",
         "time": "",
-        "title": "DEUS NÃO DESISTE",
-        "lyrics": "Somo todos nós",
+        "title": "Somos todos nós",
+        "lyrics": " - ",
         "tone": "D",
         "page": 8,
         "url": ""
@@ -134,7 +134,7 @@ export const COLUMNS = [
       {
         "id": "sx-12",
         "time": "",
-        "title": "FOI BOM CONHECER VOCÊ",
+        "title": "Foi bom conhecer você (Amigo é uma alegria ter)",
         "lyrics": "Amigo é uma alegria ter",
         "tone": "D",
         "page": 6,
@@ -157,7 +157,7 @@ export const COLUMNS = [
       {
         "id": "sa-01",
         "time": "",
-        "title": "BOA NOITE AMIGO",
+        "title": "Bom dia amigo boa noite irmão!!!",
         "lyrics": "Dê um sorriso e cante essa canção",
         "tone": "D",
         "page": 48,
@@ -166,8 +166,8 @@ export const COLUMNS = [
       {
         "id": "sa-02",
         "time": "",
-        "title": "CELEBRAI COM JUBILO",
-        "lyrics": "Celebrai com júbilo ao Senhor",
+        "title": "Celebrai com jubilo",
+        "lyrics": "Celebrai com jubilo ao Senhor",
         "tone": "D",
         "page": 56,
         "url": "audio/celebrai-com-jubilo.mp3"
@@ -175,7 +175,7 @@ export const COLUMNS = [
       {
         "id": "sa-03",
         "time": "",
-        "title": "AUTORIDADE E PODER",
+        "title": "Autoridade e Poder",
         "lyrics": "Os que confiam no Senhor",
         "tone": "D",
         "page": 43,
@@ -184,7 +184,7 @@ export const COLUMNS = [
       {
         "id": "sa-04",
         "time": "",
-        "title": "DESPERTA",
+        "title": "Desperta",
         "lyrics": "Levanta, sacode pó quebra as cadeias.",
         "tone": "Dm",
         "page": 47,
@@ -193,16 +193,16 @@ export const COLUMNS = [
       {
         "id": "sa-05",
         "time": "",
-        "title": "AQUELE QUE TEM SEDE",
-        "lyrics": "Aquele que tem sede busca",
+        "title": "Aqueles que tem sede busca",
+        "lyrics": "Aqueles que tem sede busca",
         "tone": "Dm",
-        "page": 13,
+        "page": 55,
         "url": ""
       },
       {
         "id": "sa-06",
         "time": "",
-        "title": "ALELUIA",
+        "title": "Aleluia",
         "lyrics": "Aleluia, Aleluia, Mão direita, Mão esquerda",
         "tone": "D",
         "page": 42,
@@ -211,7 +211,7 @@ export const COLUMNS = [
       {
         "id": "sa-07",
         "time": "",
-        "title": "A MINHA VIDA É DO MESTRE",
+        "title": "A minha vida é do mestre",
         "lyrics": "A minha vida é do mestre, Meu coração é do meu",
         "tone": "D",
         "page": 14,
@@ -220,7 +220,7 @@ export const COLUMNS = [
       {
         "id": "sa-08",
         "time": "",
-        "title": "ELE NÃO DESISTE DE VOCÊ",
+        "title": "Ele não desiste de você",
         "lyrics": "Não importa quem você é",
         "tone": "D",
         "page": 37,
@@ -229,7 +229,7 @@ export const COLUMNS = [
       {
         "id": "sa-09",
         "time": "",
-        "title": "QUERO LOUVAR-TE",
+        "title": "Quero louvar-te",
         "lyrics": "Quero louvar-te sempre mais e mais",
         "tone": "D",
         "page": 23,
@@ -238,7 +238,7 @@ export const COLUMNS = [
       {
         "id": "sa-10",
         "time": "",
-        "title": "COMO ZAQUEU",
+        "title": "Como Zaqueu",
         "lyrics": "Como Zaqueu, quero subir",
         "tone": "D",
         "page": 34,
@@ -255,8 +255,8 @@ export const COLUMNS = [
       {
         "id": "sa-11",
         "time": "",
-        "title": "DEUS NÃO DESISTE",
-        "lyrics": "Somo todos nós",
+        "title": "Somos todos nós",
+        "lyrics": " - ",
         "tone": "D",
         "page": 8,
         "url": ""
@@ -273,30 +273,11 @@ export const COLUMNS = [
       {
         "id": "sa-12",
         "time": "",
-        "title": "COM AMOR NO LAR",
-        "lyrics": "Tudo é belo em derredor",
+        "title": "Com Cristo no meu barco",
+        "lyrics": "Com Cristo no Barco Tudo Vai Muito Bem",
         "tone": "D",
-        "page": 67,
-        "url": "audio/com-amor-no-lar.m4a"
+        "url": "audio/Com Cristo No Meu Barco.m4a"
       },
-      {
-        "id": "sa-47",
-        "time": "",
-        "title": "CASA DE BENÇÃO",
-        "lyrics": "Minha casa será uma casa de benção",
-        "tone": "D",
-        "page": 29,
-        "url": "audio/casa-de-bencao.mp3"
-      },
-      {
-        "id": "sa-48",
-        "time": "",
-        "title": "BENDITO SERÁ",
-        "lyrics": "Não. Este não pode ser teu fim",
-        "tone": "D",
-        "page": 66,
-        "url": "audio/bendito-seras.mp3"
-      },           
       {
         "type": "section",
         "id": "sa-sec-2",
@@ -308,7 +289,7 @@ export const COLUMNS = [
       {
         "id": "sa-13",
         "time": "",
-        "title": "CONTE A DEUS",
+        "title": "Conte a Deus",
         "lyrics": "Tudo estava bem mas de repente o dia mal chegou",
         "tone": "D",
         "page": 27,
@@ -325,8 +306,8 @@ export const COLUMNS = [
       {
         "id": "sa-14",
         "time": "",
-        "title": "COM MUITO LOUVOR",
-        "lyrics": "DEUS VAI NA FRENTE, ABRINDO CAMINHO *Batida na porta",
+        "title": "Com muito louvor *Batida na porta*",
+        "lyrics": "DEUS VAI NA FRENTE, ABRINDO CAMINHO",
         "tone": "A",
         "page": 31,
         "url": ""
@@ -342,7 +323,7 @@ export const COLUMNS = [
       {
         "id": "sa-15",
         "time": "",
-        "title": "EU QUERO É DEUS",
+        "title": "Eu quero é Deus",
         "lyrics": "Eu, Eu, Eu, Eu quero é Deus",
         "tone": "D",
         "page": 41,
@@ -351,7 +332,7 @@ export const COLUMNS = [
       {
         "id": "sa-16",
         "time": "",
-        "title": "ELE VEM",
+        "title": "Ele vem",
         "lyrics": "O tempo de cantar chegou",
         "tone": "D",
         "page": 33,
@@ -360,7 +341,7 @@ export const COLUMNS = [
       {
         "id": "sa-17",
         "time": "",
-        "title": "EU SOU DE JESUS",
+        "title": "Eu sou de Jesus",
         "lyrics": "Meu Deus, pra esse mundo eu não volto mais",
         "tone": "C",
         "page": 21,
@@ -369,7 +350,7 @@ export const COLUMNS = [
       {
         "id": "sa-18",
         "time": "",
-        "title": "JESUS VIRÁ",
+        "title": "Jesus Virá",
         "lyrics": "Num dia lindo almejo eu encontrar Começa no refrão",
         "tone": "D",
         "page": 57,
@@ -378,16 +359,16 @@ export const COLUMNS = [
       {
         "id": "sa-19",
         "time": "",
-        "title": "JEOVÁ, SENHOR NOSSO",
+        "title": "Jeová Senhor nosso",
         "lyrics": "Jeová, Senhor nosso quão grande é teu nome",
         "tone": "Dm",
         "page": 6,
-        "url": "audio/jeova-senhor-nosso.mp3"
+        "url": ""
       },
       {
         "id": "sa-20",
         "time": "",
-        "title": "NOSSO GENERAL",
+        "title": "Nosso general",
         "lyrics": "Pelo Senhor marchamos sim. O exército poderoso",
         "tone": "Dm",
         "page": 12,
@@ -396,7 +377,7 @@ export const COLUMNS = [
       {
         "id": "sa-21",
         "time": "",
-        "title": "HÁ UMA UNÇÃO",
+        "title": "Há uma unção",
         "lyrics": "Há uma unção, já posso sentir",
         "tone": "F",
         "page": 26,
@@ -413,8 +394,8 @@ export const COLUMNS = [
       {
         "id": "sa-22",
         "time": "",
-        "title": "DEUS NÃO DESISTE",
-        "lyrics": "Somos todos nós",
+        "title": "Somos todos nós",
+        "lyrics": "-",
         "tone": "D",
         "page": 8,
         "url": ""
@@ -430,7 +411,7 @@ export const COLUMNS = [
       {
         "id": "sa-23",
         "time": "",
-        "title": "UTOPIA",
+        "title": "Utopia",
         "lyrics": "Das muitas coisas do meu tempo de criança",
         "tone": "E",
         "page": 16,
@@ -447,11 +428,11 @@ export const COLUMNS = [
       {
         "id": "sa-24",
         "time": "",
-        "title": "SÓ O PODER DE DEUS",
-        "lyrics": "Só o poder de Deus pode mudar meu ser",
+        "title": "Só o poder de Deus",
+        "lyrics": "Só o poder de Deus pode curar meu ser",
         "tone": "D",
         "page": 11,
-        "url": "audio/so-o-poder-de-deus.m4a"
+        "url": ""
       },
       {
         "type": "section",
@@ -464,7 +445,7 @@ export const COLUMNS = [
       {
         "id": "sa-25",
         "time": "",
-        "title": "HÁ UMA UNÇÃO",
+        "title": "Há uma unção",
         "lyrics": "Há uma unção já posso sentir verdadeiramente",
         "tone": "F",
         "page": 26,
@@ -473,7 +454,7 @@ export const COLUMNS = [
       {
         "id": "sa-26",
         "time": "",
-        "title": "VENHO SENHOR MINHA VIDA OFERECER",
+        "title": "Venho senhor minha vida oferecer",
         "lyrics": "Venho senhor minha vida oferecer como oferta de amor",
         "tone": "D",
         "page": 47,
@@ -506,7 +487,7 @@ export const COLUMNS = [
       {
         "id": "sa-28",
         "time": "",
-        "title": "CHUVA DE PODER",
+        "title": "Chuva de poder",
         "lyrics": "Chove, chove chuva. Chuva de poder",
         "tone": "D",
         "page": 19,
@@ -515,7 +496,7 @@ export const COLUMNS = [
       {
         "id": "sa-29",
         "time": "",
-        "title": "VIDEIRA",
+        "title": "Videira",
         "lyrics": "Tu é o Deus que quebra todas as cadeias",
         "tone": "D",
         "page": 17,
@@ -532,8 +513,8 @@ export const COLUMNS = [
       {
         "id": "sa-30",
         "time": "",
-        "title": "O TEMPO NÃO PODE APAGAR",
-        "lyrics": "O tempo não pode apagar nem as ondas do mar - Batida na porta - gritar página",
+        "title": "O tempo não pode apagar - Batida na porta - gritar página",
+        "lyrics": "O tempo não pode apagar nem as ondas do mar",
         "tone": "G",
         "page": 38,
         "url": ""
@@ -549,7 +530,7 @@ export const COLUMNS = [
       {
         "id": "sa-31",
         "time": "",
-        "title": "COMO VAI?",
+        "title": "Como vai",
         "lyrics": "Como vai a sua vida? Como vão seus sentimentos?",
         "tone": "D",
         "page": 20,
@@ -566,7 +547,7 @@ export const COLUMNS = [
       {
         "id": "sa-32",
         "time": "",
-        "title": "NÓS PRECISAMOS DE CRISTO",
+        "title": "Nós precisamos de Cristo",
         "lyrics": "Eu preciso de você, você precisa de mim",
         "tone": "D",
         "page": 55,
@@ -583,7 +564,7 @@ export const COLUMNS = [
       {
         "id": "sa-33",
         "time": "",
-        "title": "VEM DESFRUTAR DO AMOR DE DEUS",
+        "title": "Vem desfrutar do amor de Deus",
         "lyrics": "Vem desfrutar do amor de Deus",
         "tone": "D",
         "page": 45,
@@ -592,16 +573,16 @@ export const COLUMNS = [
       {
         "id": "sa-34",
         "time": "",
-        "title": "A TI SENHOR",
+        "title": "A ti Senhor",
         "lyrics": "A ti Senhor, elevo a minha alma",
         "tone": "D",
         "page": 5,
-        "url": "audio/a-ti-senhor.mp3"
+        "url": ""
       },
       {
         "id": "sa-35",
         "time": "",
-        "title": "LEÃO DE JUDÁ",
+        "title": "Leão de Judá",
         "lyrics": "Ouve-se um júbilo de todos os povos",
         "tone": "D",
         "page": 7,
@@ -610,7 +591,7 @@ export const COLUMNS = [
       {
         "id": "sa-36",
         "time": "",
-        "title": "DEUS FORTE",
+        "title": "Deus forte como Jeová",
         "lyrics": "Deus forte como Jeová não há outro que eu conheça",
         "tone": "D",
         "page": 10,
@@ -619,7 +600,7 @@ export const COLUMNS = [
       {
         "id": "sa-37",
         "time": "",
-        "title": "MEU BARQUINHO",
+        "title": "Meu barquinho",
         "lyrics": "O vento balançou meu barco em alto mar",
         "tone": "D",
         "page": 25,
@@ -628,7 +609,7 @@ export const COLUMNS = [
       {
         "id": "sa-38",
         "time": "",
-        "title": "VOCÊ TEM VALOR",
+        "title": "Você tem valor",
         "lyrics": "Quero que valorize o que você tem",
         "tone": "D",
         "page": 44,
@@ -637,8 +618,8 @@ export const COLUMNS = [
       {
         "id": "sa-39",
         "time": "",
-        "title": "RARIDADE",
-        "lyrics": "VOCÊ É UM ESPELHO Não consigo ir além do seu olhar. (começa do refrão)",
+        "title": "Raridade (começa do refrão)",
+        "lyrics": "VOCÊ É UM ESPELHO Não consigo ir além do seu olhar.",
         "tone": "D",
         "page": 24,
         "url": ""
@@ -654,8 +635,8 @@ export const COLUMNS = [
       {
         "id": "sa-40",
         "time": "",
-        "title": "DEUS NÃO DESISTE",
-        "lyrics": "Somos todos nós - Entra no plenário cantando",
+        "title": "Somos todos nós",
+        "lyrics": "Entra no plenário cantando",
         "tone": "D",
         "page": 8,
         "url": ""
@@ -671,7 +652,7 @@ export const COLUMNS = [
       {
         "id": "sa-41",
         "time": "",
-        "title": "ESTOU ALEGRE (POROPOPÓ)",
+        "title": "Ensaio do Maestro Poropopo",
         "lyrics": "Estou alegre...Poropopo",
         "tone": "D",
         "page": 51,
@@ -688,8 +669,8 @@ export const COLUMNS = [
       {
         "id": "sa-42",
         "time": "",
-        "title": "DEUS NÃO DESISTE",
-        "lyrics": "Somos todos nós",
+        "title": "Somos todos nós",
+        "lyrics": "-",
         "tone": "D",
         "page": 8,
         "url": ""
@@ -705,8 +686,8 @@ export const COLUMNS = [
       {
         "id": "sa-43",
         "time": "",
-        "title": "AQUELE QUE ESTÁ FELIZ",
-        "lyrics": "Aquele que está feliz diga amém *Batida na porta",
+        "title": "Aquele que está feliz *Batida na porta*",
+        "lyrics": "Aquele que está feliz diga amém",
         "tone": "D",
         "page": 32,
         "url": ""
@@ -722,8 +703,8 @@ export const COLUMNS = [
       {
         "id": "sa-44",
         "time": "",
-        "title": "DEUS NÃO DESISTE",
-        "lyrics": "Somos todos nós",
+        "title": "Somos todos nós",
+        "lyrics": "-",
         "tone": "D",
         "page": 8,
         "url": ""
@@ -739,8 +720,8 @@ export const COLUMNS = [
       {
         "id": "sa-45",
         "time": "",
-        "title": "DEUS NÃO DESISTE",
-        "lyrics": "Somos todos nós",
+        "title": "Somos todos nós",
+        "lyrics": "-",
         "tone": "D",
         "page": 8,
         "url": ""
@@ -762,7 +743,7 @@ export const COLUMNS = [
       {
         "id": "dg-01",
         "time": "",
-        "title": "BOA NOITE AMIGO",
+        "title": "Bom dia amigo, bom dia irmão",
         "lyrics": "Dê um sorriso e cante essa canção",
         "tone": "D",
         "page": 48,
@@ -771,7 +752,7 @@ export const COLUMNS = [
       {
         "id": "dg-02",
         "time": "",
-        "title": "CHUVA DE PODER",
+        "title": "Chuva de poder",
         "lyrics": "Chove, chove chuva. Chuva de poder",
         "tone": "D",
         "page": 19,
@@ -780,7 +761,7 @@ export const COLUMNS = [
       {
         "id": "dg-03",
         "time": "",
-        "title": "VIDEIRA",
+        "title": "Videira",
         "lyrics": "Tu é o Deus que quebra todas as cadeias",
         "tone": "D",
         "page": 17,
@@ -806,7 +787,7 @@ export const COLUMNS = [
       {
         "id": "dg-06",
         "time": "",
-        "title": "NOITES TRAIÇOEIRAS",
+        "title": "Noites traiçoeiras",
         "lyrics": "Jesus está aqui nesse momento. Sua presença é real em meu viver",
         "tone": "D",
         "page": 39,
@@ -823,8 +804,8 @@ export const COLUMNS = [
       {
         "id": "dg-07",
         "time": "",
-        "title": "DEUS NÃO DESISTE",
-        "lyrics": "Somos todos nós (variando o ritmo)",
+        "title": "Somos todos nós (variando o ritmo)",
+        "lyrics": " - ",
         "tone": "D",
         "page": 8,
         "url": ""
@@ -840,16 +821,16 @@ export const COLUMNS = [
       {
         "id": "dg-08",
         "time": "",
-        "title": "PODEROSO DEUS",
+        "title": "Poderoso Deus",
         "lyrics": "Ao que está assentado no trono. E ao cordeiro",
         "tone": "D",
-        "page": 35,
+        "page": 36,
         "url": ""
       },
       {
         "id": "dg-09",
         "time": "",
-        "title": "EU VEJO UMA PEQUENA NUVEM",
+        "title": "Eu vejo uma pequena nuvem",
         "lyrics": "Eu vejo uma pequena nuvem do tamanho da mão",
         "tone": "Dm",
         "page": 28,
@@ -892,20 +873,18 @@ export const COLUMNS = [
       {
         "id": "dg-12",
         "time": "",
-        "title": "GETSÊMANI",
-        "lyrics": "REFRÃO - Vê os cravos nas mãos - Seu corpo a sofrer ",
+        "title": "Deus está aqui",
+        "lyrics": "Deus está aqui. Tão certo como o ar que eu respiro",
         "tone": "D",
-        "page": 68,
-        "url": "audio/getsemani.mp3"
+        "url": "audio/deus-esta-aqui.m4a"
       },
       {
         "id": "dg-13",
         "time": "",
-        "title": "POR QUE ELE VIVE",
-        "lyrics": "Deus enviou seu filho amado",
-        "tone": "D",
-        "page": 69,
-        "url": ""
+        "title": "Com amor no lar",
+        "lyrics": "Tudo é belo em derredor / Com amor no lar",
+        "tone": "F",
+        "url": "audio/com-amor-no-lar.m4a"
       },
       {
         "type": "section",
@@ -918,7 +897,7 @@ export const COLUMNS = [
       {
         "id": "dg-14",
         "time": "",
-        "title": "JESUS CRISTO MUDOU MEU VIVER",
+        "title": "Jesus Cristo mudou meu viver",
         "lyrics": "Jesus Cristo mudou meu viver",
         "tone": "D",
         "page": 50,
@@ -935,7 +914,7 @@ export const COLUMNS = [
       {
         "id": "dg-15",
         "time": "",
-        "title": "NENHUMA CONDENAÇÃO HÁ",
+        "title": "Nenhuma condenação há",
         "lyrics": "De todas as provas que eu já passei. É bem difícil",
         "tone": "D",
         "page": 30,
@@ -952,7 +931,7 @@ export const COLUMNS = [
       {
         "id": "dg-16",
         "time": "",
-        "title": "SOU UM MILAGRE",
+        "title": "Sou um milagre",
         "lyrics": "Nunca houve noite que pudesse impedir",
         "tone": "D",
         "page": 18,
@@ -986,7 +965,7 @@ export const COLUMNS = [
       {
         "id": "dg-18",
         "time": "",
-        "title": "RECEBI UM NOVO CORAÇÃO",
+        "title": "Recebi um novo coração",
         "lyrics": "Recebi um novo coração, coração regenerado",
         "tone": "D",
         "page": 52,
@@ -995,7 +974,7 @@ export const COLUMNS = [
       {
         "id": "dg-19",
         "time": "",
-        "title": "ROMPENDO EM FÉ",
+        "title": "Rompendo em fé",
         "lyrics": "Cada vez que minha fé é provada",
         "tone": "D",
         "page": 49,
@@ -1004,7 +983,7 @@ export const COLUMNS = [
       {
         "id": "dg-20",
         "time": "",
-        "title": "VENHO SENHOR MINHA VIDA OFERECER",
+        "title": "Venho senhor minha vida oferecer",
         "lyrics": "Venho senhor minha vida oferecer",
         "tone": "D",
         "page": 47,
@@ -1013,7 +992,7 @@ export const COLUMNS = [
       {
         "id": "dg-21",
         "time": "",
-        "title": "ELE VEM",
+        "title": "Ele vem",
         "lyrics": "O tempo de cantar chegou. O tempo de dançar chegou",
         "tone": "D",
         "page": 33,
@@ -1022,7 +1001,7 @@ export const COLUMNS = [
       {
         "id": "dg-22",
         "time": "",
-        "title": "JESUS EM TUA PRESENÇA",
+        "title": "Jesus em sua presença",
         "lyrics": "Jesus em tua presença, reunimo-nos aqui",
         "tone": "D",
         "page": 55,
@@ -1031,7 +1010,7 @@ export const COLUMNS = [
       {
         "id": "dg-23",
         "time": "",
-        "title": "SOLTA O CABO DA NAU",
+        "title": "Solta o cabo da nau",
         "lyrics": "Oh! Por que duvidar sobre as ondas do mar",
         "tone": "D",
         "page": 46,
@@ -1065,8 +1044,8 @@ export const COLUMNS = [
       {
         "id": "dg-25",
         "time": "",
-        "title": "ESTOU ALEGRE (POROPOPÓ)",
-        "lyrics": "Ensaio do maestro Estou alegre",
+        "title": "Ensaio do Maestro Poropopo",
+        "lyrics": "Estou alegre...Poropopo",
         "tone": "D",
         "page": 51,
         "url": "audio/poropopo.mp3"
@@ -1188,7 +1167,7 @@ export const COLUMNS = [
       {
         "id": "dg-34",
         "time": "",
-        "title": "DEUS FORTE",
+        "title": "Deus forte como Jeová",
         "lyrics": "Deus forte como Jeová não há outro que eu conheça",
         "tone": "D",
         "page": 10,
@@ -1197,8 +1176,8 @@ export const COLUMNS = [
       {
         "id": "dg-35",
         "time": "",
-        "title": "LEÃO DE JUDÁ",
-        "lyrics": "Ouve-se um júbilo de todos os povos",
+        "title": "Leão de Judá",
+        "lyrics": "Ouve-se um júbilo",
         "tone": "D",
         "page": 7,
         "url": ""
@@ -1214,11 +1193,11 @@ export const COLUMNS = [
       {
         "id": "dg-36",
         "time": "",
-        "title": "CASA DE BENÇÃO",
+        "title": "Casa de benção",
         "lyrics": "Minha casa será uma casa de benção",
         "tone": "D",
         "page": 29,
-        "url": "audio/casa-de-bencao.mp3"
+        "url": ""
       },
       {
         "type": "section",
@@ -1231,7 +1210,7 @@ export const COLUMNS = [
       {
         "id": "dg-37",
         "time": "",
-        "title": "NA MINHA VIDA",
+        "title": "Na minha vida",
         "lyrics": "Na minha vida houve uma mudança linda",
         "tone": "D",
         "page": 54,
@@ -1240,7 +1219,7 @@ export const COLUMNS = [
       {
         "id": "dg-38",
         "time": "",
-        "title": "SOU GRATO – TRIBUTO A IEHOVAH",
+        "title": "Sou grato",
         "lyrics": "Sou grato por tudo que tenho",
         "tone": "D",
         "page": 15,
@@ -1249,7 +1228,7 @@ export const COLUMNS = [
       {
         "id": "dg-39",
         "time": "",
-        "title": "VIVA A FÉ",
+        "title": "Viva a fé",
         "lyrics": "Viva a fé, viva a esperança, viva o amor",
         "tone": "D",
         "page": 11,
@@ -1258,7 +1237,7 @@ export const COLUMNS = [
       {
         "id": "dg-40",
         "time": "",
-        "title": "AQUELE QUE ESTÁ FELIZ",
+        "title": "Aquele que está feliz",
         "lyrics": "Aquele que está feliz diga amém",
         "tone": "D",
         "page": 32,
@@ -1267,7 +1246,7 @@ export const COLUMNS = [
       {
         "id": "dg-47",
         "time": "",
-        "title": "AUTORIDADE E PODER",
+        "title": "Autoridade e Poder",
         "lyrics": "Os que confiam no Senhor",
         "tone": "D",
         "page": 43,
@@ -1276,7 +1255,7 @@ export const COLUMNS = [
       {
         "id": "dg-41",
         "time": "",
-        "title": "EM ADORAÇÃO",
+        "title": "Em adoração",
         "lyrics": "Em adoração eu me rendo a ti",
         "tone": "D",
         "page": 40,
@@ -1285,7 +1264,7 @@ export const COLUMNS = [
       {
         "id": "dg-42",
         "time": "",
-        "title": "DEUS DE PROMESSAS",
+        "title": "Deus de promessa",
         "lyrics": "Sei que os teus olhos sempre atentos permanecem",
         "tone": "D",
         "page": 41,
@@ -1335,7 +1314,7 @@ export const COLUMNS = [
       {
         "id": "dg-45",
         "time": "",
-        "title": "HÁ UMA LUZ",
+        "title": "Há uma luz",
         "lyrics": "Há uma luz que acende em todo nós",
         "tone": "D",
         "page": 9,
@@ -1352,7 +1331,7 @@ export const COLUMNS = [
       {
         "id": "dg-46",
         "time": "",
-        "title": "UM VASO NOVO",
+        "title": "Vaso novo",
         "lyrics": "Eu quero ser Senhor amado, como um vaso",
         "tone": "D",
         "page": 4,

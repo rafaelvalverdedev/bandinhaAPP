@@ -1,15 +1,24 @@
 import React, { useState, useEffect } from "react";
 import { StatusBar, ScrollView, StyleSheet, View, Text, ActivityIndicator, useWindowDimensions } from "react-native";
 import { SafeAreaProvider, SafeAreaView } from "react-native-safe-area-context";
+import { useFonts } from 'expo-font';
+import { NotoSans_400Regular, NotoSans_700Bold } from '@expo-google-fonts/noto-sans';
+
 import { COLUMNS } from "./src/data/musicas";
 import { Column } from "./src/components/Column";
 
 export default function App() {
+
+    const [fontsLoaded] = useFonts({
+        NotoSans_400Regular,
+        NotoSans_700Bold,
+    });
+
     const { width, height } = useWindowDimensions();
     const [isReady, setIsReady] = useState(false);
 
     const isLandscape = width > height;
-    const isTabletOrWeb = width >= 600;
+    const isTabletOrWeb = width >= 450;
 
     // Simula tempo de carregamento/layout
     useEffect(() => {
@@ -76,12 +85,14 @@ const styles = StyleSheet.create({
     rowLayout: {
         flexDirection: "column",
         flexWrap: "wrap",
-        justifyContent: "space-around",
+        justifyContent: "space-between",
     },
 
     columnLayout: {
         flexDirection: "row",
         flexWrap: "wrap",
-        justifyContent: "space-around",
+        justifyContent: "space-between",
+        gap: 5,
+        
     },
 });
